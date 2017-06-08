@@ -1,0 +1,10 @@
+*.suo
+*.resharper
+*.user
+*.nupkg
+src/.nuget/NuGet.config
+src/Grappachu.Interop.log4net/bin/*
+src/Grappachu.Interop.log4net/obj/*
+src/Grappachu.Interop.log4net.Test/bin/*
+src/Grappachu.Interop.log4net.Test/obj/*
+
